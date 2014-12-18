@@ -1,6 +1,6 @@
 ---
 galaxy_info:
-  description: Installs python pip package manager
+  description: Installs pip package manager for python 2
   author: British Antarctic Survey - Web and Applications Team
   company: British Antarctic Survey
   license: MIT
