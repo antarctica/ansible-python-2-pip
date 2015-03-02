@@ -2,7 +2,7 @@
 
 **Part of the BAS Ansible Role Collection (BARC)**
 
-Installs python pip package manager
+Installs pip package manager for python 2
 
 ## Overview
 
